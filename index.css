@@ -291,6 +291,7 @@ header .mobile-nav .close {
     grid-template-columns: repeat(3, auto);
     grid-template-rows: auto auto;
     justify-content: center;
+    border: 1px solid white;
 
 
 }
