@@ -192,6 +192,11 @@
     .mission{
         font-size: 25px;
     }
+    .footer-socials{
+    margin: 5% auto;
+    display: flex;
+    gap: 33px;
+}
     .thrive{
         font-size: 25px;
     }
