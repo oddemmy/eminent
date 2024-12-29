@@ -291,7 +291,7 @@ header .mobile-nav .close {
     grid-template-columns: repeat(3, auto);
     grid-template-rows: auto auto;
     justify-content: center;
-    border: 1px solid white;
+    
 
 
 }
@@ -299,7 +299,7 @@ header .mobile-nav .close {
     font-size: 40px;
 }
 .service-item{
-   border: 1px solid gray;
+   border: 1px solid white;
    border-radius: 20px;
    background-color: white;
    color: black;
