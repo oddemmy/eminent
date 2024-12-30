@@ -230,10 +230,12 @@ header .mobile-nav .close {
 #tg-image{
     width: 80px;
     height: 80px;
+    border-radius: 50%;
 }
 #x-image{
     width: 80px;
     height: 80px;
+    border-radius: 50%;
 }
 .socials{
     margin-top: 5%;
