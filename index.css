@@ -238,7 +238,7 @@ header .mobile-nav .close {
     border-radius: 50%;
 }
 #x-image:hover, #tg-image:hover{
-    filter: opacity(50%);
+    filter: opacity(80%);
 }
 .socials{
     margin-top: 5%;
